@@ -29,5 +29,12 @@
     "email": "mail@substack.net",
     "url": "http://substack.net"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "tempfile": "^0.1.2",
+    "touch": "0.0.3",
+    "tap": "^0.4.8",
+    "stream-aggregate": "^0.1.1",
+    "brfs": "^1.0.0"
+  }
 }
